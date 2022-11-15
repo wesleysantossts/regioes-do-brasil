@@ -1,6 +1,6 @@
 {
   "name": "regioes-do-brasil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pacote destinado a quem precisa listar as regiões do Brasil.",
   "main": "index.js",
   "scripts": {
