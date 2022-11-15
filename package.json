@@ -1,0 +1,34 @@
+{
+  "name": "regioes-do-brasil",
+  "version": "1.0.0",
+  "description": "Pacote destinado a quem precisa listar as regiões do Brasil.",
+  "main": "index.js",
+  "scripts": {
+    "start": "cls && npx ts-node --files --transpile-only",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleysantossts/regioes-do-brasil.git"
+  },
+  "keywords": [
+    "regional",
+    "regioes",
+    "brasil"
+  ],
+  "author": "Wesley Santos dos Anjos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleysantossts/regioes-do-brasil/issues"
+  },
+  "homepage": "https://github.com/wesleysantossts/regioes-do-brasil#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "tslint": "^6.1.3",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "source-map-loader": "^4.0.1",
+    "ts-loader": "^9.4.1"
+  }
+}
