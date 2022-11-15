@@ -1,3 +1,4 @@
-# regioes-do-brasil
+# Regiões do Brasil
 
-Pacote npm para consulta de regiões do Brasil.
+Pacote npm para consulta de região do Brasil pela sigla do Estado.
+
