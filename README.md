@@ -4,7 +4,7 @@ Pacote npm para consulta de região do Brasil pela sigla do Estado.
 
 ## Linguagens, Bibliotecas, Frameworks e Banco de Dados
 
-- [x] Typescript;
+- [x] Typescript.
 
 ## Desenvolvimento
 
