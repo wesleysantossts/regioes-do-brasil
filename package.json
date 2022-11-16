@@ -1,11 +1,14 @@
 {
-  "name": "regioes-do-brasil",
-  "version": "1.0.1",
+  "name": "@wesleysantossts/regioes-do-brasil",
+  "version": "1.0.2",
   "description": "Pacote destinado a quem precisa listar as regiões do Brasil.",
   "main": "index.js",
   "scripts": {
     "start": "cls && npx ts-node --files --transpile-only",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "@wesleysantossts:registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
