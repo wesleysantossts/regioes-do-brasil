@@ -7,9 +7,6 @@
     "start": "cls && npx ts-node --files --transpile-only",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-    "@wesleysantossts:registry": "https://npm.pkg.github.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wesleysantossts/regioes-do-brasil.git"
