@@ -1,6 +1,6 @@
 {
   "name": "@wesleysantossts/regioes-do-brasil",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Pacote destinado a quem precisa listar as regiões do Brasil.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "brasil"
   ],
   "author": "Wesley Santos dos Anjos",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wesleysantossts/regioes-do-brasil/issues"
   },
