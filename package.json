@@ -1,7 +1,7 @@
 {
   "name": "@wesleysantossts/regioes-do-brasil",
-  "version": "1.0.4",
-  "description": "Pacote destinado a quem precisa listar as regiões do Brasil.",
+  "version": "1.0.5",
+  "description": "Pacote destinado a quem precisa listar as regiões do Brasil pela sigla do Estado.",
   "main": "index.js",
   "scripts": {
     "start": "cls && npx ts-node --files --transpile-only",
